@@ -1,5 +1,30 @@
 body {
     background: linear-gradient(to right, rgb(255, 140, 207), rgba(255, 255, 255, 1));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    margin: 10;
+}
+.content{
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+.overlay {
+    position: absolute;
+    top: 0.6;
+    left: 0.5;
+    z-index: 1; 
+    background-color: rgba(255, 255, 255, 0.7); }
+.buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 10px;
 }
 .btn {
     display: inline-block;
@@ -8,8 +33,24 @@ body {
     color: white;
     text-align: center;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 70px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
   }
+  .photo{
+    display: flex;
+    padding-top: 10px;
+    padding-right: 200px;
+}
+
+.head {
+    height: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    width: 1600px;
+    justify-content: space-evenly;
+
+}
