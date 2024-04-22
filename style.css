@@ -1,3 +1,15 @@
 body {
     background: linear-gradient(to right, rgb(255, 140, 207), rgba(255, 255, 255, 1));
 }
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #af4c93;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
