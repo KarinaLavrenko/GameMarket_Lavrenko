@@ -52,5 +52,9 @@ body {
     gap: 50px;
     width: 1600px;
     justify-content: space-evenly;
-
+}
+  .photo1{
+    display: flex;
+    padding-top: 10px;
+    padding-right: 2000px;
 }
