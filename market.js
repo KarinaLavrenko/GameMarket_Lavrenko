@@ -12,15 +12,12 @@ let itemsArray = [
     // 'Електрична газонокосарка 320',
     // 'Акумуляторний оприскувач 12 E',
 ]
-
 // Отримання елементу з ідентифікатором items
 let itemsDiv = document.getElementById("items");
-
 // Перевірка існування знайденого блоку
 if (itemsDiv) {
     // Вивід знайденого елементу
     // console.log(itemsDiv)
-
     // // Вивід значення поля знайденого елементу
     // console.log('Поле classList: ', itemsDiv.classList)
     // console.log('Поле id: ', itemsDiv.id)
