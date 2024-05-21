@@ -42,7 +42,7 @@ let itemsArray = [
    },
    {
     title: "Електрична газонокосарка 32",
-    image: "https://machtz.com.ua/files/resized/products/000024307_5be968a4-80ad-4b5b-b7ca-f04e9b0d4452-800x800.800x850.jpg",
+    image: "https://aqb.com.ua/content/images/34/480x480l50nn0/elektrycheskaia-hazonokosylka-gardena-powermax-32-1200-g2-40502069671976.jpg",
     mono: 43,
     pb: 87,
     price_started: "4 497",
@@ -51,7 +51,7 @@ let itemsArray = [
  },
  {
     title: "Акумуляторний обприскувач 12 N",
-    image: "https://top-zakaz.com.ua/content/images/33/480x480l50nn0/41112408796332.png",
+    image: "https://hotline.ua/img/tx/449/4492289865.jpg",
     mono: 43,
     pb: 47,
     price_started: "2 190",
