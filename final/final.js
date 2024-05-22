@@ -1,35 +1,22 @@
 // // Перевірка підключеного файлу скриптів
 // console.log('Перевірка підключеного файлу скриптів market.js')
-
-//Визначення масиву товарів
-// let itemsArray = [
-//     'Газонокосарка 43',
-//     'Електричний тример 110',
-//     'Електрична газонокосарка 32',
-//     'Акумуляторний оприскувач 12 N',
-//     'Газонокосарка 44',
-//     'Електричний тример 111',
-//     'Електрична газонокосарка 33',
-//     'Акумуляторний оприскувач 13 N',
-//     'Газонокосарка 45',
-//     'Електричний тример 112',
-//     'Електрична газонокосарка 34',
-//     'Акумуляторний оприскувач 14 N',
-//     // 'Газонокосарка 430',
-//     // 'Електричний тример 130',
-//     // 'Електрична газонокосарка 320',
-//     // 'Акумуляторний оприскувач 12 E',
-// ]
-
 let itemsArray = [
     {
-        title: "Мотокоса 43",
-        image: "https://hotline.ua/img/tx/319/3193450945.jpg",
-        mono: 43,
-        pb: 86,
-        price_started: "5 499",
-        price_discount: "4 497",
-        price_coupon: "4 395",
+        email: "23b_bvo@liceum.ztu.edu.ua",
+        group: "10-Б 1",
+        name: "Башинська Вікторія",
+        img_autor: "",
+        img_game: "",
+        project_name: "Dudi 3",
+        project_github: "https://github.com/ViktoriaBashinska/Phaser2stGame",
+        project_live_demo: "https://viktoriabashinska.github.io/Phaser2stGame/",
+        project_drive: "https://drive.google.com/drive/folders/15v_c4DzKpW5323A4wYMV2Zj7AwRkSPUE?usp=sharing",
+        project_form: "https://forms.gle/jHMQsybKdMdUHXKA7",
+        gamemarket_name: "Game Market",
+        gamemarket_github: "https://github.com/ViktoriaBashinska/GameMarket_Bashynska",
+        gamemarket_page: "https://viktoriabashinska.github.io/GameMarket_Bashynska/",
+        pmarket_page: "https://viktoriabashynska.github.io/GameMarket_Bashynska/market.html",
+        final_page: "https://viktoriabashynska.github.io/GameMarket_Bashynska/final/final.html"
     },
     {
        title: "Електричний тример 110",
