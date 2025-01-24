@@ -14,7 +14,8 @@ let itemsArray = [
         "gamemarket_final_page": "https://viktoriabashinska.github.io/GameMarket_Bashynska/final/final.html",
         "img_author": "Башинська.jpg",
         "img_game": ""
-    }
+    },
+    
 ];
 
 document.addEventListener("DOMContentLoaded", function() {
